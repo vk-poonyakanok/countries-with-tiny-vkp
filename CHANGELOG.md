@@ -1,4 +1,9 @@
-## [1.1.0] - 2024-03-22
+## [1.1.1] - 2024-03-23 20:0
+### Added
+- Add `Easter Island`
+- Add Galapagos island to be include with `Ecuador`
+
+## [1.1.0] - 2024-03-23 13:52
 ### Added
 - Included tiny countries and sovereign micro-areas for better visualization especially caribbean and oceania area.
 - Combine Somaliland with Somalia to new `Soamlia` (Somaliland is hidden behind Somalia).
