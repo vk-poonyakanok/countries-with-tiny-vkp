@@ -10,16 +10,15 @@ A simplified world shapefile (EPSG:4326) derived from Natural Earth `ne_110m_adm
 - Not suitable for land use or border accuracy
 
 ## Files
+### Shapefile
 - `countries_with_tiny_vkp.shp`  
 - `countries_with_tiny_vkp.shx`  
 - `countries_with_tiny_vkp.dbf`  
 - `countries_with_tiny_vkp.prj`  
-- `countries_with_tiny_vkp.cpg` 
-- `countries_with_tiny_vkp.xlsx` – shapefile summary and attribute dictionary  
-- `README.md` – project details  
-- `VERSION` – version string and timestamp  
-- `CHANGELOG.md` – development history  
-- `LICENSE` – CC0 public domain dedication
+- `countries_with_tiny_vkp.cpg`
+
+### Other files
+- `countries_with_tiny_vkp.xlsx` – shapefile summary and attribute dictionary
 
 ## Version
 
