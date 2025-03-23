@@ -1,3 +1,7 @@
+ ## [1.1.3] - 2024-03-23 23:58
+### Changed
+- Change the duplicate `VKP_A3` code of `Sint Eustatius`, `Saint Martin` and `Netherland Antilles`
+
 ## [1.1.2] - 2024-03-23 23:30
 ### Changed
 - Change the duplicate `VKP_A3` code of `Sint Maarten (Dutch part)` and `Easter Island (Chile)`
