@@ -1,4 +1,8 @@
- ## [1.1.4] - 2024-03-24 00:14
+## [1.1.5] - 2024-03-24 00:32
+### Changed
+- Change CONTINENT of the `French Guiana`
+
+## [1.1.4] - 2024-03-24 00:14
 ### Changed
 - Change CONTINENT of the `Réunion`
 
