@@ -1,4 +1,8 @@
- ## [1.1.3] - 2024-03-23 23:58
+ ## [1.1.4] - 2024-03-24 00:14
+### Changed
+- Change CONTINENT of the `Réunion`
+
+## [1.1.3] - 2024-03-23 23:58
 ### Changed
 - Change the duplicate `VKP_A3` code of `Sint Eustatius`, `Saint Martin` and `Netherland Antilles`
 
