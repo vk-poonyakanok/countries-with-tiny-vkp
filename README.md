@@ -22,8 +22,8 @@ A simplified world shapefile (EPSG:4326) derived from Natural Earth `ne_110m_adm
 
 ## Version
 
-- **Current version:** `1.1.1`
-- **Timestamp:** `2024-03-23 22:03`
+- **Current version:** `1.1.2`
+- **Timestamp:** `2024-03-23 23:30`
 
 ---
 
